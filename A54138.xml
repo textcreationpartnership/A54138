@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England still freshly lamenting the losse of her King, with several of her dearest children, vvhich have been beheaded, hanged, and shot, by O. Cromwel, and the Long-Parliament in a brief collection of the remarkable passages that have happened to this land, from the year 1640, to this present year 1660 / by W.P. Gent.</title>
+            <author>W. P., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54138</idno>
+            <idno type="STC">Wing P129</idno>
+            <idno type="STC">ESTC R5374</idno>
+            <idno type="EEBO-CITATION">13084366</idno>
+            <idno type="OCLC">ocm 13084366</idno>
+            <idno type="VID">97281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97281)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England still freshly lamenting the losse of her King, with several of her dearest children, vvhich have been beheaded, hanged, and shot, by O. Cromwel, and the Long-Parliament in a brief collection of the remarkable passages that have happened to this land, from the year 1640, to this present year 1660 / by W.P. Gent.</title>
+                  <author>W. P., Gent.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hen. Blunt,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97281:1"/>
+            <pb facs="tcp:97281:1" rendition="simple:additions"/>
+            <p>ENGLAND Still Freſhly LAMENTING The loſſe of Her KING, With ſeveral of Her Deareſt CHILDREN; VVhich have been beheaded, hang<g ref="char:EOLhyphen"/>ed, and ſhot, by <hi>O. Cromwel,</hi> and the <hi>Long-Parliament.</hi>
+            </p>
+            <p>IN A BRIEF Collection of the Remarkable Paſsages that have happened to this Land, from the year 1640, to this preſent year 1660.</p>
+            <p>By <hi>W. P.</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Hen. Blunt,</hi> MDCLX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:97281:2"/>
+            <pb n="1" facs="tcp:97281:2"/>
+            <head>England ſtill freſhly lamenting the loſſe of her King, &amp;c.</head>
+            <lg>
+               <l>IN ſixteen hundred thirty nine, we then</l>
+               <l>Did think, and ſay we were unhappy men,</l>
+               <l>Becauſe that we in many yeares before</l>
+               <l>Had not a Parliament; nay I'le ſay more,</l>
+               <l>We then did murmur, and we did complain</l>
+               <l>Of many preſſures, we did then ſuſtain:</l>
+               <l>Ship-mony then a burden was unto us,</l>
+               <l>O Lord, theſe taxes we cry'd, will undo us;</l>
+               <l>This coat and conduct mony, is unlawfull,</l>
+               <l>Lord, ſend a Parliament, to make us joyfull:</l>
+               <l>Shall we be made ſuch ſlaves unto the will</l>
+               <l>Of ſuch a King, that ſeeks our lives to kill,</l>
+               <l>And our eſtates will take away by force,</l>
+               <l>Yea, our Religion, which of all is worſe,</l>
+               <l>A Parliament Lord ſend us, was the ſong,</l>
+               <l>Of rich and poor, the old, and eke the young.</l>
+               <l>Well, God did hear us, and into the heart</l>
+               <l>Of our ſate King, did put it, (to his ſmart)</l>
+               <l>To call a Parliament, as I remember,</l>
+               <l>For to begin the third day of <hi>November;</hi>
+                  <note place="margin">1640.</note>
+               </l>
+               <l>Which is now nineteen yeares ago compleat,</l>
+               <l>And doth fit ſtill; with grief we may repeat.</l>
+               <l>Then preſently the taxes, down were voted,</l>
+               <l>Which were ſo great, as I before have noted:</l>
+               <l>Star-chamber then, and high Commiſſion Court</l>
+               <l>Were then put down, 'tis true what I report.</l>
+               <l>Then did the King grant unto them to ſit,</l>
+               <l>In Parliament, ſo long as they thought fit:</l>
+               <l>And then for a Triennial Parliament</l>
+               <l>An Act was made, miſtakes for to prevent.</l>
+               <pb n="2" facs="tcp:97281:3"/>
+               <l> Then joyfull were we, this ſame news to hear,</l>
+               <l>Rung Bells, made Bonfires, as it did appear;</l>
+               <l>But now behold, conſider, and look back,</l>
+               <l>And ſee how we have been put to the wrack,</l>
+               <l>For firſt a hundred thouſand pound was rais'd,</l>
+               <l>To give the Scots, at which we were amaz'd,</l>
+               <l>For their good ſervice done ſome time before,</l>
+               <l>This recompence they had then for their lore:</l>
+               <l>Beſides in ſixteen hundred forty fix,</l>
+               <l>Juſt twice as much the Parliament did fix,</l>
+               <l>And give unto them, 'cauſe they ſhould deliver</l>
+               <l>The King unto them, the like I think was never.</l>
+               <l>Thus was the King by our dear Brother ſold,</l>
+               <l>For no leſſe mony than before was told;</l>
+               <l>Likewiſe an hundred thouſand pound: ſcarce leſs</l>
+               <l>Was raiſed, the Iriſh Rebells to ſuppreſs,</l>
+               <l>And after that, above three thouſand pound,</l>
+               <l>Was raiſed for Souldiers, which was quickly found,</l>
+               <l>And liſted were, to fight againſt the King,</l>
+               <l>What think you now, was't not a goodly thing?</l>
+               <l>Then fifty ſubſidies, was raiſed, beſide</l>
+               <l>Pole mony alſo, which men did deride;</l>
+               <l>And other Sums of mony freely given,</l>
+               <l>To ſet out Ships for Coles, they were ſo riſen;</l>
+               <l>Then did they order every one to bring</l>
+               <l>His Plate, to <hi>Guild-Hall:</hi> to the very Ring,</l>
+               <l>Bodkin, and Thimble, brought to maintain the cauſe,</l>
+               <l>All which was done; and that with great applauſe,</l>
+               <l>And thoſe that would this order not obey,</l>
+               <l>The twentieth part of his Eſtate muſt pay.</l>
+               <l>Such was the greedy Appetite of thoſe,</l>
+               <l>Who ſeem'd our Friends, but I think were our Foes:</l>
+               <l>Beſides all theſe; yet ſee how great vaſt ſums,</l>
+               <l>From every Hall and Corporation comes;</l>
+               <l>And other places which if I ſhould name,</l>
+               <l>'Twould add, no glory to them, nor good fame.</l>
+               <l>Then was there not a farr more worſe device</l>
+               <l>Laid on our Baoks, a thing called the Exciſe,</l>
+               <pb n="3" facs="tcp:97281:3"/>
+               <l> For we Exciſe did pay for meat, and drink,</l>
+               <l>And all things elſe, that they upon could think;</l>
+               <l>Beſides at <hi>Brainford,</hi> when there was a fight,</l>
+               <l>VVe ſent the Souldiers with ſuch great delight,</l>
+               <l>Cart loads of victuals, with great ſtore of Cloaths,</l>
+               <l>VVith Shirts, Shooes, Hats, and many a pair of Hoſe,</l>
+               <l>And mony too, by ſome was freely given,</l>
+               <l>By thoſe who thought thereby for to gain Heaven;</l>
+               <l>All which was done, as they ſaid with intent,</l>
+               <l>To bring the King unto his Parliament,</l>
+               <l>And make him glorious, and a happy King,</l>
+               <l>This was the cry, though they meant no ſuch thing,</l>
+               <l>Likewiſe in ſixteen hundred forty three,</l>
+               <l>The Parliament did order there ſhould be,</l>
+               <l>The worth in mony of a good meals meat,</l>
+               <l>For every one that was i'th houſe did eat,</l>
+               <l>For half a year together it was paid,</l>
+               <l>Oh was not this a very gallant traid?</l>
+               <l>Likewiſe in ſixteen hundred forty five,</l>
+               <l>'Twas ordered alſo every man to give,</l>
+               <l>A penny a week of every Family,</l>
+               <l>For one whole year together, 'tis no lye;</l>
+               <l>And this was ſent poor <hi>Ireland</hi> to relieve,</l>
+               <l>If thoſe that order'd did not us deceive:</l>
+               <l>Then after this they laid on us great Taxes,</l>
+               <l>To hew us down as if it were with Axes,</l>
+               <l>And ſixty thouſand pound a month, a year</l>
+               <l>They made us pay, as it did well appear,</l>
+               <l>And ſome years ninety thouſand every month was paid,</l>
+               <l>For a whole year together undenayed;</l>
+               <l>Beſides, a hundred twenty thouſand pound,</l>
+               <l>VVas paid a month by all, a whole year round,</l>
+               <l>All which to many millions doth amount,</l>
+               <l>Far greater than the wit of man can count,</l>
+               <l>And whoſoever did not pay his Seaſement,</l>
+               <l>VVas either plunder'd or priſon'd without releaſement,</l>
+               <l>And by ſuch means, ſome thouſands are undone,</l>
+               <l>And knew not how, or which way for to run;</l>
+               <pb n="4" facs="tcp:97281:4"/>
+               <l> And children likewiſe are made fatherleſſe,</l>
+               <l>That knew not how their wants for to expreſſe;</l>
+               <l>With multitudes of widows, that none knowes</l>
+               <l>The number of them, or their wants diſcloſe.</l>
+               <l>Beſides the maimed, that want hands or feet,</l>
+               <l>And wounded ſo, 'twould grieve one for to ſee't:</l>
+               <l>And yet beſides, the thouſands that are ſlain,</l>
+               <l>Which can't be numbred, for it is in vain.</l>
+               <l>Then burning houſes followed out right,</l>
+               <l>With caſtles waſted, and demoliſht quite;</l>
+               <l>And rowns and cities are by wars undone,</l>
+               <l>The ſouldiers ſpoiling all that they had won:</l>
+               <l>And every place is ſo impoveriſhed,</l>
+               <l>For want of trade, to buy the people bread.</l>
+               <l>The Churches likewiſe they were much defaced,</l>
+               <l>And made like ſtables, wherein horſe were placed:</l>
+               <l>They took away the veſſels every one,</l>
+               <l>And ornaments, I think they left not one.</l>
+               <l>Thus did the Churches their privileges looſe,</l>
+               <l>And ſects, and errours were brought in to chooſe:</l>
+               <l>And Gods true worſhip it was laid aſide,</l>
+               <l>And in blaſphemies they did take a pride:</l>
+               <l>And toleration of ſuch things that's evil</l>
+               <l>Was given them, the like did not the Devil.</l>
+               <l>Thus have you heard the truth of things in brief,</l>
+               <l>And yet not half, nor do I think the chief</l>
+               <l>Of what they did, in twelve yeares time they ſat,</l>
+               <l>But if you'l mind, the next ſhall tell you what.</l>
+               <l>The firſt beheaded on the Tower Hill,</l>
+               <l>
+                  <note place="margin">12 <hi>May</hi> 1641.</note>Was Earl of <hi>Strafford,</hi> ſore againſt his will.</l>
+               <l>
+                  <note place="margin">23 <hi>Decem.</hi> 1641</note>Sir <hi>Alexander Carew</hi> was the ſecond,</l>
+               <l>That loſt his head, for ſo it muſt be reckon'd:</l>
+               <l>
+                  <note place="margin">1 <hi>January</hi> 1644.</note>And Captain <hi>Hotham</hi> after him ſucceeded,</l>
+               <l>
+                  <note place="margin">2 <hi>January</hi> 1644.</note> His father alſo next day after bleeded.</l>
+               <l>
+                  <note place="margin">10 <hi>January</hi> 1644.</note>The Biſhop then of <hi>Carterbury</hi> next</l>
+               <l>That was beheaded, after he preach'd his text.</l>
+               <l>But now my heart doth ſail, the next to tell,</l>
+               <l>That loſt his life, ſince which we ne're were well:</l>
+               <pb n="5" facs="tcp:97281:4"/>
+               <l> O Gracious God, was ever ſuch things known,</l>
+               <l>A King ſo kil'd by ſubjects of his own.
+<note place="margin">30 <hi>January</hi> 1648.</note>
+               </l>
+               <l>May that accurſed act of killing Kings,</l>
+               <l>Drink deep the dregs of the internal ſtings.</l>
+               <l>Lord <hi>Capel</hi> next, Duke <hi>Hamilton</hi> another,</l>
+               <l>The Earl of <hi>Holland</hi> alſo was the tother:</l>
+               <l>Theſe three together at <hi>Weſtminſter</hi> were headed,
+<note place="margin">9 <hi>March</hi> 1648.</note>
+               </l>
+               <l>For being true to'th King, this Parliament did it.</l>
+               <l>Next. Collonel <hi>Andrews,</hi> and then Sir <hi>Henry Hide,</hi>
+               </l>
+               <l>Both on <hi>Tower-Hill</hi> were headed, and there dyed;<note place="margin">
+                     <hi>the</hi> 22 <hi>Auguſt</hi> 1650. 4 <hi>Mar.</hi> 1650.</note>
+               </l>
+               <l>And Captain <hi>Buſhel</hi> in that very place,</l>
+               <l>VVas headed there when he had run his race. <note place="margin">29 <hi>Mar.</hi> 1651</note>
+               </l>
+               <l>Next Mr. <hi>Love,</hi> and <hi>Gibons,</hi> in one day,</l>
+               <l>VVere both beheaded of a truth I ſay;<note place="margin">22 <hi>Aug.</hi> 1651.</note>
+               </l>
+               <l>Loe here 14 to'th' dozen in 12 years,</l>
+               <l>Beheaded were by theſe ſad Parliamenteers,</l>
+               <l>Beſides what others, in far remoter place<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>To us unknown who never ſaw their faces:</l>
+               <l>Next you ſhall know; how many we have ſeen</l>
+               <l>Hang'd in the City, and ſhot to death have been.</l>
+               <l>Firſt, <hi>Challaner,</hi> and <hi>Tomkins,</hi> in one day,</l>
+               <l>where hang'd in <hi>London,</hi> this is truth I ſay,
+<note place="margin">5 <hi>July</hi> 1643.</note>
+               </l>
+               <l>
+                  <hi>Tomkins</hi> at <hi>Fetter-Lane,</hi> tother at the <hi>Change,</hi>
+               </l>
+               <l>Thus did their madneſſe round about us range,</l>
+               <l>About ſome four months after was another,</l>
+               <l>Hang'd at the <hi>Change,</hi> whoſe name I mean to ſmother,
+<note place="margin">19 <hi>July</hi> 1650.</note>
+               </l>
+               <l>And then another, whoſe name I forgot,
+<note place="margin">28 <hi>Nov.</hi> 1643.</note>
+               </l>
+               <l>At <hi>Weſtminſter</hi> was hang'd for I know what;
+<note place="margin">
+                     <hi>the beginning <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f April</hi> 1644.</note>
+               </l>
+               <l>He was a Spy they ſaid came from the King,</l>
+               <l>And he muſt ſuffer therefore in a ſtring.</l>
+               <l>The next in order, though not he himſelf,</l>
+               <l>VVas Sir <hi>John Greenevils</hi> picture, fooliſh Elſe,</l>
+               <l>That hanged was at the <hi>Excha<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge;</hi> for why,<note place="margin">
+                     <hi>The beginning of Ma<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> 1643.</note>
+               </l>
+               <l>Cauſe <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ef<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, and to the King did ſly:</l>
+               <l>Then <hi>Poyer, Pitcher, Lo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kier,</hi> went to'th' pot,</l>
+               <l>Theſe three at ſeveral times, to death were ſhot:<note place="margin">29 <hi>Dec.</hi> 1648. 21 <hi>Apr.</hi> 1649. 27 <hi>Apr.</hi> 1649</note>
+               </l>
+               <l>All theſe near <hi>London,</hi> and n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar thereabout,</l>
+               <l>VVere hang'd, and ſhot to death, which they found out;</l>
+               <pb n="6" facs="tcp:97281:5" rendition="simple:additions"/>
+               <l> Beſides all others thorowout the Land,</l>
+               <l>If't could be known, we ſhould amazed ſtand;</l>
+               <l>They having ſat twelve years, then commeth <hi>Cromwell,</hi>
+               </l>
+               <l>And turns them out, which Act, it doth pleaſe ſome well,</l>
+               <l>But he his part doth play, as did the reſt,</l>
+               <l>And falls to heading, hanging like a beaſt.</l>
+               <l>
+                  <note place="margin">10 <hi>July</hi> 1654.</note>The firſt was <hi>Gerrard,</hi> that did feel the ſmart</l>
+               <l>Of his keen Axe, which went unto the heart.</l>
+               <l>
+                  <note place="margin">8 <hi>Iune</hi> 1658.</note>Next Doctor <hi>Huit</hi> in that very place,</l>
+               <l>With <hi>Henry Slingsby</hi> Knight, of comly grace;</l>
+               <l>Both in one day, but who can tell for what,</l>
+               <l>'Twas never known, nor never we ſhall that.</l>
+               <l>
+                  <note place="margin">10 <hi>July</hi> 1654. 10 <hi>Aug.</hi> 1654.</note>Then Mr. <hi>Vowel</hi> was hang'd at <hi>Charing Croſſe,</hi>
+               </l>
+               <l>And <hi>Marſton</hi> alſo hang'd, to his friends loſſe.</l>
+               <l>
+                  <note place="margin">7 <hi>July</hi> 1658.</note>But after all comes <hi>Betterly</hi> on the ſtage,</l>
+               <l>Who in <hi>Cheapſide</hi> was hang'd in <hi>Cromwel</hi>'s rage,</l>
+               <l>And afterward his bowels burnt in fire,</l>
+               <l>'Cauſe they againſt him, He ſaid, did conſpire.</l>
+               <l>And then another hang'd was in <hi>Tower ſtreet,</hi>
+               </l>
+               <l>
+                  <note place="margin">9 <hi>July</hi> 1650.</note>And at the <hi>Change</hi> another, we did ſee 't.</l>
+               <l>Theſe eight by <hi>Cromwel</hi> in the City dy'd,</l>
+               <l>But God doth know how many more beſide</l>
+               <l>Were hang'd, and headed within theſe three Nations,</l>
+               <l>Of whom I can't make any true relation.</l>
+            </lg>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>FRom the 3 <hi>November</hi> 1640. to the 20 <hi>April</hi> 1653, when Oliver <hi>Cromwel</hi> turned out the long Parliament, there hath been 29 thanksgiving days for ſever<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l victories obtained by them againſt the King: and at leaſt 15 days of humiliation, beſides the monthly faſts, which was once a month f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r very ne<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 8 years, being caſt up together, is at least 90. which in all ma<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 105. And from the time of their turning out, to the 25 <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> laſt 1659, <hi>there hath been 10 faſting days, and</hi> 6 than<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iving days, ſo that the total number of the faſting days to the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Decemb.</hi> laſt, is 15. And the thanksgiving days are 35.</p>
+            <p>In the late wars hath been killed above 100 Lords &amp; Knights, above 400 Officers, beſides the common ſouldiers: above 100 Miniſters put out of their places, and died of grief.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97281:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
